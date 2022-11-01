@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ForTuneYT
+- 👋 Hi, I’m @Sumit
 - 👀 I’m interested in Frontend Develpoment
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on Web-site Development
